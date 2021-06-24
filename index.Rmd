@@ -15,30 +15,30 @@ library(ggplot2)
 library(plotly)
 ```
 
-### Low pitch is *masculine* and a *grandmother*?! Sounds fake, but ok… {data-commentary-width=800}
+### Low pitch is ***masculine*** and a ***grandmother***?! Sounds fake, but ok… {data-commentary-width=800}
 
-<div align="center"> Firstly, I would like to ask you to listen to this short music snippet: \
+<div align="center"> Firstly, I would like to ask you to **listen** to this short music snippet: \
 \
 <audio controls>
   <source src="h_3.wav" type="audio/mpeg">
 </audio>  <br> \
-How would you describe this sound? Does it evoke any word associations? Is it, perhaps, 'high'? Would you say that it sounds more blunt than sharp or vice versa? \
+How would you *describe* this sound? Does it evoke any word associations? Is it, perhaps, *high*? Would you say that it sounds more *blunt* than *sharp* or vice versa? \
 \
 ![](Picture1.jpg) </div>
 
 
 ***
-Metaphors are no strangers to our everyday life. Even without realizing, we use metaphors on a daily basis: time is money, heart made of gold, someone being an early bird/night owl… \
+**Metaphors** are no strangers to our everyday life. Even without realizing, we use metaphors on a daily basis: *time is money*, *heart made of gold*, *someone being an early bird/night owl*… \
 \
-Hearing is said to be the most abstract sense out of the human senses, so naturally, listening to music is quite a unique experience. That is why we tend to borrow words and metaphors that originate from other senses to talk about music. \
+Hearing is said to be the most *abstract sense* out of the human senses, so naturally, listening to music is quite a *unique experience*. That is why we tend to borrow words and metaphors that originate from other senses to talk about music. \
 \
-If you are still reading this text, it is safe to assume that you are a proficient speaker of English. Then, you are probably familiar with ‘high-low’ metaphor that is widely used in English, among other European languages such as Russian and Dutch, to describe sounds of opposite pitch. Interestingly, although this verticality metaphor seems to be the prevalent one, it is not universal across all 6,500+ languages that exist. \
+If you are still reading this text, it is safe to assume that you are a proficient speaker of English. Then, you are probably familiar with **high-low** metaphor that is widely used in English, among other European languages such as *Russian* and *Dutch*, to describe sounds of opposite pitch. Interestingly, although this verticality metaphor seems to be the *prevalent* one, it is **not universal** across all 6,500+ languages that exist. \
 \
-For instance, in Balinese (spoken in Bali), pitch is small or large. In Gbaya language family, that consists of dozen various languages in the western Central African Republic, pitches are arranged genealogically, so high pitch would be called a daughter and low pitch would be called a grandmother. Other metaphors include feminine – masculine, rough – smooth, thin – thick, among others. \
+For instance, in *Balinese* (spoken in Bali), pitch is **small** or **large**. In *Gbaya* language family, that consists of dozen various languages from the western Central African Republic, pitches are arranged *genealogically*, so high pitch would be called a **daughter** and low pitch would be called a **grandmother**. Alternative metaphors include **feminine – masculine**, **rough – smooth**, **thin – thick**, among others. \
 \
-All of these diverse metaphorical pitch descriptions might sound foreign and a bit baffling. But what if I told you that you would probably apply these metaphors to high- and low-pitched sounds in the same way as a native speaker? That is if presented with a low-pitched sound, imagine something like a heavy bass sound, you would be more likely to describe it as masculine, smooth and a grandmother than feminine, rough and a daughter. \
+All of these diverse metaphorical pitch descriptions might sound *foreign* and a *bit baffling*. But what if I told you that you would probably apply these metaphors to high- and low-pitched sounds in the same way as a native speaker? That is, if presented with a low-pitched sound (imagine something like a *heavy bass* sound), you would be more likely to describe it as **masculine**, **smooth** and a **grandmother** than **feminine**, **rough** and a **daughter**. \
 \
-Even if it sounds far-fetched at this point, I invite you to click through the website and see how I investigated whether foreign metaphors are applied correctly by English speakers!
+Even if it sounds far-fetched at this point, I invite you to **click through the dashboard** and see how I investigated *whether foreign metaphors are applied correctly by English speakers*!
 
 ### Sounds and Metaphors: Investigation through a Survey {data-commentary-width=900}
 
