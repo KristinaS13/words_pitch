@@ -41,7 +41,7 @@ All of these diverse metaphorical pitch descriptions might sound *foreign* and a
 Even if it sounds far-fetched at this point, I invite you to **click through the dashboard** and see how I investigated *whether foreign metaphors are applied correctly by English speakers*!
 
 
-### `r emo::ji("score")` Sounds and Metaphors `r emo::ji("brain")`: Investigation through a Survey `r emo::ji("screen")` {data-commentary-width=900}
+### `r emo::ji("score")` *Sounds* and *Metaphors* `r emo::ji("brain")`: Investigation through a Survey `r emo::ji("screen")` {data-commentary-width=900}
 
 ![](qr.png)
 
@@ -54,7 +54,8 @@ Please feel free to take a **demo version of the survey** by *scanning the QR co
 Also, *in theory*, participants are expected to answer the *relatedness question* **faster when presented with a matching sound-metaphor pair**. To illustrate, when one *reads* or *hears* the word *dog*, other **words associated** with *dog*, such as *leash*, *cat*, *food*, come to mind, not *puzzle*, *case* and *gum*. \
 Same principle can be applied to music: if you hear a *piccolo* (one the highest-pitched instruments) *solo* and the see word **thin**, you should be able to categorize the word as *related to the sound* without thinking too much about it. Conversely, if you see the word **thick**, it might require more time to process whether the word is *really* related or not. \
 
-### Results: Accurate, but not Fast. What Does it Mean? {data-commentary-width=900}
+
+### **Results**: `r emo::ji("gold")` **Accurate**, but *not* **Fast** `r emo::ji("slow")`. *What Does it Mean*? {data-commentary-width=900}
 
 ```{r}
 knitr::include_graphics("Picture2.png")
@@ -62,6 +63,9 @@ knitr::include_graphics("Picture2.png")
 
 ***
 
-The results indicated that people are most accurate in rejecting wrong combinations of language and sound. That means that after listening to a high-pitched sound, words like masculine and smooth were deemed to be irrelevant to the musical excerpt and vice versa. Unfortunately, the speed with which participants judged matching and mismatching sound-word combinations did not differ much. \
+The results show that **people are most accurate in rejecting wrong combinations of language and sound**. That means that after listening to a **high-pitched sound**, words like **masculine** and **smooth** were deemed to be **irrelevant** to the musical excerpt and vice versa. *Unfortunately*, the *speed* with which participants judged matching and mismatching sound-word combinations *did not differ much*. \
 \
-Strong agreement among participants on what is a right word and what is a wrong word to describe a high/low-pitched sound indicates that all of these seemingly foreign metaphors might actually exist in our brain, even though we do not use them in English. This finding also provides evidence for the claim that such metaphorical associations of pitch might be innate, that is something we are born with. The fact that people took approximately the same time to accept and reject words shows that although we tend to judge correctly, we are not very efficient in judging music-word pairs. Even though music can evoke particular word associations (high-pitched sound → thin), they might not be as strong as word-word (girl → feminine) ones.  However, figuring out the precise mechanisms behind how perception of pitch and thoughts interact is a puzzle to solve for future researchers.
+*Strong agreement* among participants on *what is a right word* and *what is a wrong word* to describe a high/low-pitched sound indicates that all of these seemingly **foreign metaphors might** actually **exist in our brain**, even though we do not use them in English. This finding also provides **evidence for the claim that such metaphorical associations of pitch might be innate**, that is something we are born with.\
+\
+The fact that people took approximately the *same time* to *accept* and *reject* words shows that although we tend to **judge correctly**, we are **not very efficient in judging music-word pairs**. Even though music *can* evoke particular word associations (*high-pitched sound → thin*), they might **not** be **as strong as word-word** (*girl → feminine*) ones.  \
+However, figuring out the precise mechanisms behind how perception of pitch and thoughts interact is a puzzle to solve for future researchers.
