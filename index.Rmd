@@ -50,7 +50,13 @@ With this research, I wanted to check whether the crosslinguistic metaphors are 
 \
 Also, in theory, participants should answer the relatedness question faster when presented with a matching sound-metaphor pair. To illustrate, when one reads or hears the word dog, other words associated with dog, such as leash, cat, food, come to mind, not puzzle, case and gum. Same principle can be applied to music: if you hear a piccolo (one the highest-pitched instruments) solo and the see word thin, you should be able to categorize the word as ‘related to the sound’ without thinking too much about it. Conversely, if you see the word thick, it might require more time to process whether the word is really related or not. \
 
-### Results: Accurate, but not Fast. What Does it Mean?
+### Results: Accurate, but not Fast. What Does it Mean? {data-commentary-width=900}
+
+```{r}
+knitr::include_graphics("Picture2.png")
+```
+
+***
 
 The results indicated that people are most accurate in rejecting wrong combinations of language and sound. That means that after listening to a high-pitched sound, words like masculine and smooth were deemed to be irrelevant to the musical excerpt and vice versa. Unfortunately, the speed with which participants judged matching and mismatching sound-word combinations did not differ much. \
 \
