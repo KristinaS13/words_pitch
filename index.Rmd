@@ -15,14 +15,15 @@ library(flexdashboard)
 
 ### Low pitch is *masculine* and a *grandmother*?! Sounds fake, but ok… {data-commentary-width=800}
 
-Firstly, I would like to ask you to listen to this short music snippet: \
+<div align="center"> Firstly, I would like to ask you to listen to this short music snippet: \
 \
 <audio controls>
   <source src="h_3.wav" type="audio/mpeg">
 </audio>  <br> \
 How would you describe this sound? Does it evoke any word associations? Is it, perhaps, 'high'? Would you say that it sounds more blunt than sharp or vice versa? \
 \
-![](Picture1.jpg)
+![](Picture1.jpg) </div>
+
 
 ***
 Metaphors are no strangers to our everyday life. Even without realizing, we use metaphors on a daily basis: time is money, heart made of gold, someone being an early bird/night owl… \
@@ -37,7 +38,11 @@ All of these diverse metaphorical pitch descriptions might sound foreign and a b
 \
 Even if it sounds far-fetched at this point, I invite you to click through the website and see how I investigated whether foreign metaphors are applied correctly by English speakers!
 
-### Sounds and Metaphors: Investigation through a Survey
+### Sounds and Metaphors: Investigation through a Survey {data-commentary-width=900}
+
+![](qr.png)
+
+***
 
 With this research, I wanted to check whether the crosslinguistic metaphors are applied to high- and low-pitched sounds in the same way as they are in the language of origin. To test that, English-speaking participants were asked to listen to a high- or low-pitched instrumental music excerpts and judge whether the word presented on the screen afterwards is related or unrelated to the sound. Please feel free to take a demo version of the survey by scanning the QR code on the left or clicking the [link](https://uvacommscience.eu.qualtrics.com/jfe/form/SV_eEFlcMixKZ2fP4W)! \
 \
