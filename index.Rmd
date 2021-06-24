@@ -21,10 +21,8 @@ Firstly, I would like to ask you to listen to this short music snippet: \
   <source src="h_3.wav" type="audio/mpeg">
 </audio>  <br> \
 How would you describe this sound? Does it evoke any word associations? Is it, perhaps, 'high'? Would you say that it sounds more blunt than sharp or vice versa? \
-
-```{r out.width = "200px"}
-knitr::include_graphics("Picture1.jpg")
-```
+\
+![](Picture1.jpg)
 
 ***
 Metaphors are no strangers to our everyday life. Even without realizing, we use metaphors on a daily basis: time is money, heart made of gold, someone being an early bird/night owl… \
