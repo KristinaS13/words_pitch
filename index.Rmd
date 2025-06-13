@@ -41,19 +41,17 @@ All of these diverse metaphorical pitch descriptions might sound *foreign* and a
 Even if it sounds far-fetched at this point, I invite you to **click through the dashboard** and see how I investigated *whether foreign metaphors are applied correctly to high- or low-pitched sounds by English speakers*!
 
 
-### *Sounds* and *Metaphors* : Investigation through a Survey {data-commentary-width=900}
+### *Sounds* and *Metaphors*: Research through a Survey {data-commentary-width=900}
 
 ![](qr.png)
 
 ***
 
-With this research, I wanted to **check whether the foreign metaphors are applied to high- and low-pitched sounds in the same way as they are in the language of origin**. To test that, English-speaking participants were asked to **listen to a high- or low-pitched instrumental music excerpts** and **judge** whether the word (metaphor) presented on the screen afterwards is *related or unrelated* to the sound. \
+With this research, I wanted to **check whether the foreign metaphors are applied to high- and low-pitched sounds in the same way as they are in the language of origin**. To test that, English-speaking participants were asked to **listen to a high- or low-pitched instrumental music excerpts** and **judge** whether the word presented on the screen afterwards is *related or unrelated* to the sound. \
 \
 Please feel free to take a **short demo version of the survey** by *scanning the QR code* on the left or *clicking the [link](https://uva.fra1.qualtrics.com/jfe/form/SV_0c9QSJTUWGCi4qq)*! \
 \
-*In theory*, participants are expected not only to correctly to answer whether the word matches the sound or not, but also answer faster when the word *is* indeed related to the heard sound.
-
-This phenomenon, called the semantic priming effect, is seen in language experiments. For example, when one *reads* or *hears* the word *dog*, other **words associated** with *dog*, such as *leash*, *cat*, *food*, come to mind, not *puzzle*, *case* and *gum*. \
+*In theory*, participants are expected not only to correctly to answer whether the word matches the sound or not, but also answer faster when the word *is* indeed related to the heard sound. This phenomenon, called the semantic priming effect, is seen in language experiments. For example, when one *reads* or *hears* the word *dog*, other **words associated** with *dog*, such as *leash*, *cat*, *food*, come to mind, not *puzzle*, *case* and *gum*. \
 \
 The same principle can be applied to music: if you hear a *piccolo* (one the highest-pitched instruments) *solo* and the see word **thin**, you should be able to categorize the word as *related to the sound* without thinking too much about it. Conversely, if you see the word **thick**, it might require more time to process whether the word is *really* related or not. \
 
@@ -66,9 +64,11 @@ knitr::include_graphics("Picture2.png")
 
 ***
 
-The results show that **participants can accurately judge whether the metaphor is related or not to the audio**. For example, high-pitched excerpts were said to be **thin** and **sharp**, but not **thick** and **blunt**, in the same way as the sounds would be described in the language of origin. \
+As expected, **participants could accurately judge whether the metaphor is related or not to the audio**. For example, high-pitched excerpts were said to be **thin** and **sharp**, but **not thick** and **blunt**, that is in the same way as the sounds would be described in the language of origin. \
 \
-*Unfortunately*, subjects did not answer faster when the audio was indeed related to the word. \
+*Unfortunately*, people did not answer faster when the audio was indeed related to the word. So listening to a low-pitched sound prior to seeing the word *thick* or *blunt* did not make people answer faster than when they saw *thin* or *sharp* afterwards. \
 \
-So participants agreed on *what is the right word* and *what is the wrong word* to describe a high/low-pitched sound showing that we might be born with all of these various pitch descriptions in our minds, but we just do not use all of them in our native languages. However, when needed, like in the case of completing an experiment, we can use those words as if they are present in our native language.\
+So participants agreed on *what is the right word* and *what is the wrong word* to describe a high/low-pitched sound. Therefore, **we might be born with all of these various pitch descriptions in our minds**, but we just do not use all of them in our native languages. However, when needed, like in the case of completing an experiment, we can use those words as if they are present in our native language.\
+Also, music might evoke certain word-associations after we listened to it, but they are not as strong as if we were to match word to word. Perhaps, the words *"knife"* and *"sharp"* are more related in our mind than a piccolo playing and *"sharp"*. \
 \
+Taking my finding into consideration, figuring out the *precise* brain mechanisms behind how pitch and our thoughts interact is a puzzle to solve for future researchers!
