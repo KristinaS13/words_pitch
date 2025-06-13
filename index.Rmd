@@ -15,7 +15,7 @@ library(ggplot2)
 library(plotly)
 ```
 
-### Low pitch is ***masculine*** `r emo::ji("beard")` and a ***grandmother*** `r emo::ji("mother")`?! Sounds fake, but ok… {data-commentary-width=800}
+### Low pitch is ***masculine***  and a ***grandmother***?! Sounds fake, but ok… {data-commentary-width=800}
 
 <div align="center"> Firstly, I would like to ask you to **listen** to this short music snippet: \
 \
@@ -41,7 +41,7 @@ All of these diverse metaphorical pitch descriptions might sound *foreign* and a
 Even if it sounds far-fetched at this point, I invite you to **click through the dashboard** and see how I investigated *whether foreign metaphors are applied correctly by English speakers*!
 
 
-### `r emo::ji("score")` *Sounds* and *Metaphors* `r emo::ji("brain")`: Investigation through a Survey `r emo::ji("screen")` {data-commentary-width=900}
+### *Sounds* and *Metaphors* : Investigation through a Survey {data-commentary-width=900}
 
 ![](qr.png)
 
@@ -55,7 +55,7 @@ Also, *in theory*, participants are expected to answer the *relatedness question
 Same principle can be applied to music: if you hear a *piccolo* (one the highest-pitched instruments) *solo* and the see word **thin**, you should be able to categorize the word as *related to the sound* without thinking too much about it. Conversely, if you see the word **thick**, it might require more time to process whether the word is *really* related or not. \
 
 
-### **Results**: `r emo::ji("gold")` **Accurate**, but *not* **Fast** `r emo::ji("slow")`. *What Does it Mean*? {data-commentary-width=900}
+### **Results**: **Accurate**, but *not* **Fast**. *What Does it Mean*? {data-commentary-width=900}
 
 ```{r}
 knitr::include_graphics("Picture2.png")
