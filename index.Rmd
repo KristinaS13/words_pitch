@@ -1,5 +1,5 @@
 ---
-title: "Pitch Metaphors: Is High Pitch a Daughter and Low Pitch a Grandmother?"
+title: "Kitch Metaphors: Is High Pitch a Daughter and Low Pitch a Grandmother?"
 author: "by Kristina Savickaja"
 date: "24 June 2021"
 output: 
