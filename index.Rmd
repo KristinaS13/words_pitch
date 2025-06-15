@@ -34,7 +34,7 @@ For the majority of us, another essential part of the human experience is **hear
 \
 If you are still reading this text, it is safe to assume that you are a proficient speaker of English. Then, you are probably familiar with **high-low** metaphor that is widely used in English, among other European languages, such as *Russian* and *Dutch*, to describe sounds of the opposite pitch. Interestingly, although this verticality metaphor seems to be the *prevalent* one, it is **not universal** across all 6,500+ languages that exist. \
 \
-For instance, in *Balinese* (spoken in Bali), pitch is **small** or **large**. In *Gbaya* language family, that consists of dozen various languages from the western Central African Republic, pitches are arranged *genealogically*, so high pitch would be called a **granddaughter** and low pitch would be called a **grandmother**. Alternative metaphors include **feminine – masculine**, **rough – smooth**, **thin – thick**, among many others. \
+For instance, in *Balinese* (spoken in Bali), pitch is **small** or **large**. In *Gbaya* language family, that consists of dozen various languages from the western Central African Republic, pitches are arranged *genealogically*, so high-pitched sounds are called a **granddaughter** and low-pitched - a **grandmother**. Alternative metaphors include **feminine – masculine**, **rough – smooth**, **thin – thick**, among many others. \
 \
 All of these diverse metaphorical pitch descriptions might sound *foreign* and a *bit baffling*. But what if I told you that you would probably apply these metaphors to high- and low-pitched sounds in the same way as a native speaker? That is, if presented with a low-pitched sound (imagine something like a *heavy bass* sound), you would be more likely to describe it as **masculine**, **smooth** and a **grandmother** than **feminine**, **rough** and a **granddaughter**. \
 \
@@ -51,9 +51,9 @@ With this research, I wanted to **check whether the foreign metaphors are applie
 \
 Please feel free to take a **short demo version of the survey** by *scanning the QR code* on the left or *clicking the [link](https://uva.fra1.qualtrics.com/jfe/form/SV_0c9QSJTUWGCi4qq)*! \
 \
-*In theory*, participants are expected not only to correctly to answer whether the word matches the sound or not, but also answer faster when the word *is* indeed related to the heard sound. This phenomenon, called the semantic priming effect, is seen in language experiments. For example, when one *reads* or *hears* the word *dog*, other **words associated** with *dog*, such as *leash*, *cat*, *food*, come to mind, not *puzzle*, *case* and *gum*. \
+*In theory*, participants are expected not only to *correctly answer* whether the word matches the sound or not, but also answer faster when the word *is* indeed related to the heard sound. This phenomenon, called the semantic priming effect, is seen in language experiments. For example, when one *reads* or *hears* the word *dog*, other **words associated** with *dog*, such as *leash*, *cat*, *food*, come to mind, not *puzzle*, *case* and *gum*. \
 \
-The same principle can be applied to music: if you hear a *piccolo* (one the highest-pitched instruments) *solo* and the see word **thin**, you should be able to categorize the word as *related to the sound* without thinking too much about it. Conversely, if you see the word **thick**, it might require more time to process whether the word is *really* related or not. \
+The same principle can be applied to music: if you hear a *piccolo* (one the highest-pitched instruments) *solo* and then see the word **thin**, you should be able to categorize the word as *related to the sound* without thinking too much about it. Conversely, if you see the word **thick**, it might require more time to process whether the word is *really* related or not. \
 
 
 ### **Results**: **Accurate**, but *not* **Fast**. *What Does it Mean*? {data-commentary-width=900}
@@ -66,9 +66,10 @@ knitr::include_graphics("Picture2.png")
 
 As expected, **participants could accurately judge whether the metaphor is related or not to the audio**. For example, high-pitched excerpts were said to be **thin** and **sharp**, but **not thick** and **blunt**, that is in the same way as the sounds would be described in the language of origin. \
 \
-*Unfortunately*, people did not answer faster when the audio was indeed related to the word. So listening to a low-pitched sound prior to seeing the word *thick* or *blunt* did not make people answer faster than when they saw *thin* or *sharp* afterwards. \
+*Unfortunately*, people did not answer faster when the audio was related to the word. So listening to a low-pitched sound prior to seeing the word *thick* or *blunt* did not make people answer faster than when they saw *thin* or *sharp*. \
 \
-So participants agreed on *what is the right word* and *what is the wrong word* to describe a high/low-pitched sound. Therefore, **we might be born with all of these various pitch descriptions in our minds**, but we just do not use all of them in our native languages. However, when needed, like in the case of completing an experiment, we can use those words as if they are present in our native language.\
-Also, music might evoke certain word-associations after we listened to it, but they are not as strong as if we were to match word to word. Perhaps, the words *"knife"* and *"sharp"* are more related in our mind than a piccolo playing and *"sharp"*. \
+I found that participants agreed on *what is the right metaphor* and *what is the wrong metaphor* to describe a high/low-pitched sound. Therefore, **we might be born with all of these various pitch descriptions in our minds**, but we just do not use all of them in our native languages. However, when needed, like in the case of completing an experiment, we can use those words as if they are present in our native language.\
 \
-Taking my finding into consideration, figuring out the *precise* brain mechanisms behind how pitch and our thoughts interact is a puzzle to solve for future researchers!
+Also, music might evoke certain word-associations after we listened to it, but they are not as strong as if we were to match word to word. Perhaps, the words *knife* and *sharp* are more related in our mind than a piccolo playing and *"sharp"*. \
+\
+My study showed how multifaceted human cognition is even when it comes to such seemingly simple and even mundane tasks as musical pitch processing. Taking my finding into consideration, figuring out the *precise* brain mechanisms behind how pitch and our thoughts interact is a puzzle to solve for future researchers!
